@@ -1,6 +1,9 @@
 function firstChar(text) {
   // your code here
+	let str=text.charAt(0);
+	return str;
 }
+firstChar()
 
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
